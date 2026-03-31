@@ -6,9 +6,9 @@ local goblinConfig = {
   lookType = 58,
   groupId = "goblins",
 
-  speed = 900,
+  speed = 125,
   healthFactor = 1,
-  weakFromPower = 400,
+  weakFromPower = 300,
 
   colorMapBaseName = "goblin",
   randomColorMapChance = 70,
